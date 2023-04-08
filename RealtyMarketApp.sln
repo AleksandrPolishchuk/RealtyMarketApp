@@ -5,6 +5,12 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealtyMarketApp.Frontend", "RealtyMarketApp.Frontend\RealtyMarketApp.Frontend.csproj", "{CA801653-47F5-4948-A85F-20CB84042FF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealtyCourse.Business", "RealtyCourse.Business\RealtyCourse.Business.csproj", "{6058FB6D-CC07-43C6-9FB0-1F26732F4C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealtyMarket.DAL", "RealtyMarket.DAL\RealtyMarket.DAL.csproj", "{C8ABBF61-96C3-412D-A174-BCBCF2D3FC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealtyMarket.Tests", "RealtyMarket.Tests\RealtyMarket.Tests.csproj", "{C78D1560-523C-47D7-98FF-CB9B58F248C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{CA801653-47F5-4948-A85F-20CB84042FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA801653-47F5-4948-A85F-20CB84042FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA801653-47F5-4948-A85F-20CB84042FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6058FB6D-CC07-43C6-9FB0-1F26732F4C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6058FB6D-CC07-43C6-9FB0-1F26732F4C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6058FB6D-CC07-43C6-9FB0-1F26732F4C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6058FB6D-CC07-43C6-9FB0-1F26732F4C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8ABBF61-96C3-412D-A174-BCBCF2D3FC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8ABBF61-96C3-412D-A174-BCBCF2D3FC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8ABBF61-96C3-412D-A174-BCBCF2D3FC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8ABBF61-96C3-412D-A174-BCBCF2D3FC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78D1560-523C-47D7-98FF-CB9B58F248C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78D1560-523C-47D7-98FF-CB9B58F248C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78D1560-523C-47D7-98FF-CB9B58F248C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78D1560-523C-47D7-98FF-CB9B58F248C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
