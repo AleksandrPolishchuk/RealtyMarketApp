@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RealtyMarketApp.Frontend.props" />
+</Project>

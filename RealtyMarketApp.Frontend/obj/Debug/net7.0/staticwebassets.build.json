@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "vJwMa5j5hZj0ziAEWnHfEvhKDR1CiA7gq8WYbCdn7qI=",
+  "Source": "RealtyMarketApp.Frontend",
+  "BasePath": "_content/RealtyMarketApp.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RealtyMarketApp.Frontend\\wwwroot",
+      "Source": "RealtyMarketApp.Frontend",
+      "ContentRoot": "C:\\Users\\HS\\source\\repos\\myGithub\\RealtyMarketApp\\RealtyMarketApp.Frontend\\wwwroot\\",
+      "BasePath": "_content/RealtyMarketApp.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
