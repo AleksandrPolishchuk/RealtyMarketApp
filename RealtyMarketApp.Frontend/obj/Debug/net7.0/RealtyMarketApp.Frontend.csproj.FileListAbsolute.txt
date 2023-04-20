@@ -26,3 +26,5 @@ C:\Users\HS\source\repos\myGithub\RealtyMarketApp\RealtyMarketApp.Frontend\obj\D
 C:\Users\HS\source\repos\myGithub\RealtyMarketApp\RealtyMarketApp.Frontend\obj\Debug\net7.0\RealtyMarketApp.Frontend.pdb
 C:\Users\HS\source\repos\myGithub\RealtyMarketApp\RealtyMarketApp.Frontend\obj\Debug\net7.0\RealtyMarketApp.Frontend.genruntimeconfig.cache
 C:\Users\HS\source\repos\myGithub\RealtyMarketApp\RealtyMarketApp.Frontend\obj\Debug\net7.0\ref\RealtyMarketApp.Frontend.dll
+C:\Users\HS\source\repos\myGithub\RealtyMarketApp\RealtyMarketApp.Frontend\obj\Debug\net7.0\RealtyMarketApp.Frontend.RazorAssemblyInfo.cache
+C:\Users\HS\source\repos\myGithub\RealtyMarketApp\RealtyMarketApp.Frontend\obj\Debug\net7.0\RealtyMarketApp.Frontend.RazorAssemblyInfo.cs
